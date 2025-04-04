@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Nicolas
+#### My name is Nicolas
 - 22 years old
 - Tech student
 
