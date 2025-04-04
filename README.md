@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 #### Nicolas
-22 years old
-Tech student
-
-<br />
+- 22 years old
+- Tech student
 
 ##### Tools I use :
 
