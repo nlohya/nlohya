@@ -4,7 +4,7 @@
 - 23 years old
 - ~~Tech student~~ Tech graduate since september 2025
 
-##### Tools I use :
+##### Main stuff I use :
 
 Languages : <br />
 ![Static Badge](https://img.shields.io/badge/Javascript-ffffff?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
