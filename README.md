@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 #### My name is Nicolas
-- 22 years old
-- Tech student
+- 23 years old
+- ~~Tech student~~ Tech graduate since september 2025
 
 ##### Tools I use :
 
